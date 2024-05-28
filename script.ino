@@ -15,7 +15,7 @@ char ssid[] = "########";
 //Senha da rede WiFi
 char pass[] = "########"; 
 
-//Get the button value
+//Obtem o valor do botão
 BLYNK_WRITE(V0) {
   digitalWrite(D3, param.asInt());
 }
