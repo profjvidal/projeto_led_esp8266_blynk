@@ -1,5 +1,5 @@
-//Incluir os arquivos da biblioteca
-#define BLYNK_PRINT Serial
+//#define BLYNK_PRINT Serial
+//Inclusão das bibliotecas
 //Biblioteca para conectar o módulo ESP8266 a uma rede Wi-Fi
 #include <ESP8266WiFi.h>
 //Biblioteca para uso do ESP8266 na plataforma Blynk
